@@ -1,0 +1,2 @@
+# schemas
+hosting json.schemas
