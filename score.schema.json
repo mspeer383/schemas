@@ -1,0 +1,14 @@
+{
+  "$id": "file:///score.schema.json",
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Score",
+  "description": "Score for learning",
+  "type": "object",
+  "properties": {
+    "scoreId": {
+      "description": "The unique identifier for a score",
+      "type": "string"
+    }
+  },
+  "required": [ "ScoreId" ]
+} 
